@@ -6,7 +6,7 @@
  }
 
  .container-image {
-     background-image: url("../Banner\ Image.png");
+     background-image: url("../resources/Banner\ Image.png ");
      width: 1320px;
      height: 600px;
      background-position: center;
@@ -69,7 +69,7 @@
 
  .image2 {
 
-     background-image: url(../Vectorrr.png);
+     background-image: url(../resources/Vectorrr.png);
      width: 1320px;
      height: 600px;
      background-position: center;
