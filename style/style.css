@@ -6,7 +6,7 @@
  }
 
  .container-image {
-     background-image: url("/Banner\ Image.png");
+     background-image: url("../Banner\ Image.png");
      width: 1320px;
      height: 600px;
      background-position: center;
@@ -69,7 +69,7 @@
 
  .image2 {
 
-     background-image: url(/Vectorrr.png);
+     background-image: url(../Vectorrr.png);
      width: 1320px;
      height: 600px;
      background-position: center;
@@ -192,7 +192,7 @@
  }
 
  .holiday-imag4 {
-     background-image: url(/Rectangle\ 2.png);
+     background-image: url(../Rectangle\ 2.png);
      width: 1320px;
      height: 229px;
      margin-left: 140px;
